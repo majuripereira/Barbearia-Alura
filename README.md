@@ -3,7 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <title>Barbearia Alura</title>
+<link.rel="stylesheet".href="style.css">
+      
+<style>
+         
+</style>
 </head>
+   
 <body>
 <h1 style="text-align: center">Sobre a Barbearia Alura</h1>
 
@@ -12,6 +18,5 @@
 <p style="font-size: 20px; text-align: center"><em>Nossa missão é <strong>"Proporcionar auto-estima e qualidade de vida aos clientes".</strong>.</em></p>
 
 <p style="text-align: center">Oferecemos profisionais experientes e antenados ás mudanças no mundo de moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
-   </body>        
- </html>
+</body>
  </html>
